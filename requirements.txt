@@ -1,0 +1,13 @@
+langchain-openai
+python-dotenv
+langchain-community
+langchain-huggingface
+pydantic
+pypdf
+langchain
+yt_dlp
+pydub
+beautifulsoup4
+chromadb
+langchain-chroma
+langchain-core
